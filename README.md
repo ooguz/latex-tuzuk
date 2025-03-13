@@ -1,6 +1,6 @@
 # The tuzuk Package
 
-The `tuzuk` class provides a standardized format for writing bylaws and regulations in Turkish. It includes features for creating numbered articles, subsections, and signature areas commonly found in legal documents.
+The `tuzuk` class provides a standardized format for writing bylaws and regulations in Turkish-governmental style. It includes features for creating numbered articles, subsections, and signature areas commonly found in legal documents.
 
 ## Features
 
@@ -34,6 +34,6 @@ The latest version can be found at: [GitHub Repository URL]
 
 ## CTAN Package
 
-This package is available on CTAN at: https://ctan.org/pkg/tuzuk
+This package ~~is available~~ on CTAN at: https://ctan.org/pkg/tuzuk
 
 

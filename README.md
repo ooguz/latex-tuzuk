@@ -30,10 +30,10 @@ v1.0.0 (2024/03/13)
 
 ## Repository
 
-The latest version can be found at: [GitHub Repository URL]
+The latest version can be found at [GitHub](https://github.com/ooguz/latex-tuzuk) or [CTAN](https://ctan.org/pkg/tuzuk)
 
 ## CTAN Package
 
-This package ~~is available~~ on CTAN at: https://ctan.org/pkg/tuzuk
+This package is available on CTAN at: https://ctan.org/pkg/tuzuk
 
 
